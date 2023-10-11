@@ -1,0 +1,14 @@
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\bin\Debug\net7.0\Lab6_64050028.exe
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\bin\Debug\net7.0\Lab6_64050028.deps.json
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\bin\Debug\net7.0\Lab6_64050028.runtimeconfig.json
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\bin\Debug\net7.0\Lab6_64050028.dll
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\bin\Debug\net7.0\Lab6_64050028.pdb
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\obj\Debug\net7.0\Lab6_64050028.GeneratedMSBuildEditorConfig.editorconfig
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\obj\Debug\net7.0\Lab6_64050028.AssemblyInfoInputs.cache
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\obj\Debug\net7.0\Lab6_64050028.AssemblyInfo.cs
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\obj\Debug\net7.0\Lab6_64050028.csproj.CoreCompileInputs.cache
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\obj\Debug\net7.0\Lab6_64050028.dll
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\obj\Debug\net7.0\refint\Lab6_64050028.dll
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\obj\Debug\net7.0\Lab6_64050028.pdb
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\obj\Debug\net7.0\Lab6_64050028.genruntimeconfig.cache
+f:\Work\year3\Prolang\Lab6\Lab6_64050028\obj\Debug\net7.0\ref\Lab6_64050028.dll
